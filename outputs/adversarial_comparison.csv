@@ -1,0 +1,15 @@
+Feature,Test%,Adv%,Diff
+gender=female,32.67,37.04,4.37
+gender=male,67.33,62.96,-4.37
+age_group=older,83.33,88.89,5.56
+age_group=young,16.67,11.11,-5.56
+housing=A151,19.0,29.63,10.63
+housing=A152,72.0,62.96,-9.04
+housing=A153,9.0,7.41,-1.59
+job=A171,1.0,3.7,2.7
+job=A172,18.67,33.33,14.67
+job=A173,64.67,48.15,-16.52
+job=A174,15.67,14.81,-0.85
+age (mean),35.34,34.67,-0.68
+credit_amount (mean),3321.87,4062.22,740.35
+duration (mean),20.92,21.78,0.85

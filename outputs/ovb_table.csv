@@ -1,0 +1,8 @@
+Feature,Coef Full,Coef Reduced,Abs Change,Pct Change
+duration (omitted),-0.3646,DROPPED,N/A,N/A
+credit_amount_log,-0.1738,-0.4382,0.2644,-152.11
+age,0.1399,0.1602,0.0203,14.49
+installment_rate,-0.1819,-0.2705,0.0886,-48.72
+status_checking_A14,1.9689,2.0303,0.0614,3.12
+purpose_A410,1.7926,1.6422,0.1504,-8.39
+foreign_worker_A202,1.6759,1.8022,0.1263,7.54
